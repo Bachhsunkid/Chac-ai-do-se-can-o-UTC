@@ -4,6 +4,7 @@
 Repo đang gồm 2 phần code: Đánh giá giảng viên và nhập điểm rèn luyện
 
 1. Đánh giá giảng viên
+
     B1: Mở khảo sát đánh giá giảng viên
 
     B2: Chọn 1 môn học chưa đánh giá
@@ -16,6 +17,7 @@ Repo đang gồm 2 phần code: Đánh giá giảng viên và nhập điểm rè
   
 
 2. Nhập điểm rèn luyện cho sinh viên
+
     B1: Tạo file điểm định dạng như file "DRL.txt" (File này không chứa các đầu điểm mục 1a, 1d, 2a, 2b1, 2b2)
 
     B2: Tạo file mã sinh viên định dạng như file "MSV.txt"
