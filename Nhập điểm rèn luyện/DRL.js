@@ -2,6 +2,7 @@
 // var oddRows = [];
 // var msv = [];
 
+// Part1: Lấy điểm rèn luyện cả lớp
 // fs.readFile('DRL.txt', 'utf8', function (err, data) {
 //   if (err) throw err;
 //   let rows = data.split('\n');
@@ -20,6 +21,7 @@
 //   // console.log(oddRows.length);
 // });
 
+//Part 2: Lấy mã sinh viên cả lớp
 // fs.readFile('MSV.txt', 'utf8', function (err, data) {
 //   if (err) throw err;
 //   let lines = data.split('\n');
@@ -30,6 +32,10 @@
 //   console.log(msv.length);
 // });
 
+
+
+//Part 3: Uoload điểm bằng F12 -> console log
+// Kết quả của đoạn code lấy điểm rèn luyện paste vô đây
  var oddRows = [[
     0, 5, 5, 5, 5, 4,
     4, 4, 8, 7, 0, 8,
@@ -365,6 +371,8 @@
     4, 4, 8, 7, 0, 8,
     0, 0, 4, 0
   ]];
+
+//Kết quả của đoạn code lấy mã sinh viên paste vô đây
 var msv = [  '201200005', '201200008', '201200014', '201200021',
   '201200029', '201200026', '201206931', '201200043',
   '201200053', '201200057', '201200060', '201200066',
